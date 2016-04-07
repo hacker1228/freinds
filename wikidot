@@ -1,0 +1,102 @@
+<head>
+    <title>Click to chat and enter password - MTGCLUBSITE</title>
+    
+    
+    
+    <script type="text/javascript" async="" src="https://data-secure.solvemedia.com/dapi/collect"></script><script type="text/javascript" async="" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--javascript/init.combined.js"></script>
+    <script type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "mtgclub.wikidot.com";
+        WIKIREQUEST.info.siteId = 1081423;
+        WIKIREQUEST.info.siteUnixName = "mtgclub";
+        WIKIREQUEST.info.categoryId = 8005403;
+        WIKIREQUEST.info.themeId = 2439;
+        WIKIREQUEST.info.requestPageName = "start";
+        OZONE.request.timestamp = 1460057914;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "start";
+        WIKIREQUEST.info.pageId = 34747193;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en">
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/shiny/css/style.css);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif">
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif">
+    
+            <link rel="apple-touch-icon" href="/common--images/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/common--images/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/common--images/apple-touch-icon-114x114.png">
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()">
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--modules/js/list/ListPagesModule.js"></script>
+<iframe src="https://data-secure.circulate.com/dapi/data?type=html;sid=hewjfj;ea=sm1;hema=H1%3A1f36aac5eb4e658e9555bbe235afbe8b302e9c05%2CH2%3Af6ce793dde80e981a05d039b4a0f23f1ef97e8db%2CH3%3A526472e87484a6e5cbddc84f4c4c21c477919045%2CH4%3Abcb9396757204c49d63e434248707ba0%2CH5%3Ad0b1d7b08a85ea8287556e76233ed830%2CH6%3Aee5b766b726284f3d0d8c00313eb0be0e3aca7df91d0ce373472132c8d953de0%2CH7%3Af0c1c865a2686475ee655c8ff8a8509a3730145a73039cf0b9e058a915cfee2c;_t=1460057917982" height="0" width="0" frameborder="0"></iframe><script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--modules/js/edit/PageEditModule.js"></script></head>
