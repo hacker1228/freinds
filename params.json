@@ -1,6 +1,6 @@
 {
   "name": "Freinds",
   "tagline": "",
-  "body": "# freinds\r\nfor coders\r\nand more fun\r\n",
+  "body": "# freinds\r\nfor coders\r\nand more fun\r\n\r\n<data-colorscheme=\"dark\">\r\n\r\n<div id=\"fb-root\"></div>\r\n<script>(function(d, s, id) {\r\n  var js, fjs = d.getElementsByTagName(s)[0];\r\n  if (d.getElementById(id)) return;\r\n  js = d.createElement(s); js.id = id;\r\n  js.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5\";\r\n  fjs.parentNode.insertBefore(js, fjs);\r\n}(document, 'script', 'facebook-jssdk'));</script>\r\n<div class=\"fb-comments\" data-href=\"http://mtgclub.wikidot.com/start\" data-width=\"100%\" data-numposts=\"20\"></div>\r\n</data>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
